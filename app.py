@@ -318,7 +318,7 @@ preprocessor = Pipeline(steps=[
 # read the training data
 
 # dir_path = r"D:\SAURABH\spring 2024\ML_Projects\AWS SageMaker FlightFarePredictor\data"
-train = pd.read_csv("train_set")
+train = pd.read_csv("train_set.csv")
 X_train = train.drop(columns="price") 
 y_train = train.price.copy()
 
