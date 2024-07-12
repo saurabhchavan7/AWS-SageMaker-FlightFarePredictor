@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn
+streamlit
+feature-engine
+xgboost
+joblib
+
+# this were the main modules that we used
+# we need to give this because when we deploy streamlit will install all this libraries and deploy ouir model over there 
+# this is why we need this file to recreate our environment over there
