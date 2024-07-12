@@ -40,7 +40,7 @@ from feature_engine.encoding import (
     CountFrequencyEncoder
     
 )
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import warnings
 
 
@@ -319,7 +319,7 @@ preprocessor = Pipeline(steps=[
 
 dir_path = r"D:\SAURABH\spring 2024\ML_Projects\AWS SageMaker FlightFarePredictor\data"
 train = pd.read_csv(os.path.join(dir_path, "train_set.csv"))
-X_train = train.drop(columns="price")
+X_train = train.drop(columns="price") 
 y_train = train.price.copy()
 
 # fit and save the preprocessor
