@@ -1,6 +1,5 @@
 # Flight Fare Predictor: End-to-End Machine Learning Project using AWS SageMaker
 
-## Project Architecture
 
 ## Project Architecture
 
