@@ -8,7 +8,7 @@
 
 ## Introduction
 
-This project demonstrates the process of building, training, and deploying a machine learning model for predicting flight fares using AWS SageMaker. The project encompasses the entire workflow, from data preprocessing to deploying a web application. The goal is to create an effective and efficient machine learning pipeline that can handle large datasets, optimize hyperparameters, and provide accurate predictions.
+This project demonstrates the process of building, training, and deploying a machine learning model for predicting flight fares using AWS SageMaker. The project encompasses the entire workflow, from data preprocessing to deploying a web application. The goal is to create an effective and efficient machine learning pipeline that can handle large datasets, optimize hyperparameters, and provide accurate predictions
 
 ### Web Application
 
